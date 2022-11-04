@@ -1,4 +1,4 @@
-print(".. SIMULATION OF TIME TO COMPLETE TASKS")
+print(f".. SIMULATION OF TIME TO COMPLETE TASKS")
 
 data_collectors = 14
 sprints_per_dc = 2.5
